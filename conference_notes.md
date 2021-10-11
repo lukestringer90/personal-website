@@ -16,4 +16,5 @@ I really enjoy attending technical conferences. Often I take notes while I am th
   <li>ADDC 2019 | Barcelona 🇪🇸</li>
   <li><a href="notes/DDD-North-2020">DDD North 2020</a> | University of Hull 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </li>
   <li><a href="notes/UIKonf-2020">UIKonf 2020</a> | Remote 🖥 </li>
+  <li><a href="notes/SwiftLeeds-2021">SwiftLeeds 2021</a> | Leeds 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </li>
 </ul>
