@@ -17,4 +17,5 @@ I really enjoy attending technical conferences. Often I take notes while I am th
   <li><a href="notes/DDD-North-2020">DDD North 2020</a> | University of Hull 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </li>
   <li><a href="notes/UIKonf-2020">UIKonf 2020</a> | Remote 🖥 </li>
   <li><a href="notes/SwiftLeeds-2021">SwiftLeeds 2021</a> | Leeds 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </li>
+  <li><a href="notes/iOSDevUK-2022">iOSDevUK 2022</a> | Aberystwyth 🏴󠁧󠁢󠁷󠁬󠁳󠁿 </li>
 </ul>
