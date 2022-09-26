@@ -6,8 +6,6 @@ year: 2022
 where: Aberystwyth 󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿
 ---
 
-# iOSDevUK 2022
-
 10th anniversay of the coference!
 
 ## I ❤️ Swift Concurrency
