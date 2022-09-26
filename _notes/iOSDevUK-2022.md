@@ -6,7 +6,7 @@ year: 2022
 where: Aberystwyth 󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿
 ---
 
-10th anniversay of the coference!
+10th anniversay of the conference!
 
 ## I ❤️ Swift Concurrency
 **Tunde Adegoroye**
