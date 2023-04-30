@@ -9,7 +9,7 @@ A few years ago I started reading [Software Lead Weekly](https://softwareleadwee
 
 A Manager README is a document that you can share with your team to outline your own my leadership style. I recently finished writing my own here: 
 
-https://managerreadme.com/readme/lukestringer90
+[https://managerreadme.com/readme/lukestringer90](https://managerreadme.com/readme/lukestringer90)
 
 My README outlines my background, my role, my preferences for communication, my personality quirks, and in general is a place for you to understand the best way to work with me. It also outlines my promises to the people I work with so you can hold me accountable.
 
