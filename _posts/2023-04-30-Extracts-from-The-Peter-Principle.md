@@ -7,6 +7,12 @@ excerpt_separator: <!--more-->
 
 I recently finished reading [The Peter Principle](https://en.wikipedia.org/wiki/Peter_principle). It was written by Laurence J. Peter and Raymond Hull and was published in 1969. Below are number of extracts from the book that I found compelling or noteworthy.
 
+It's central thesis is that **given enough time, and assuming the existence of enough ranks in a hierarchy, each employee will rise to, and remain at, their level of incompetence**.
+
+Overall I found it an insightful read, with it's cynical, tongue in cheek tone often being quite humorous. It does, however, show it's age with a some problematic heteronormative and sexist views in a handful of places. Remember it was written over 50 years ago.
+
+Below are number of extracts from the book that I found compelling or noteworthy.
+
 <!--more-->
 
 
