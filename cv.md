@@ -5,6 +5,8 @@ title: Curriculum Vitae
 
 [PDF Download of my CV](/assets/lukestringer-CV.pdf)
 
+[My Manager README](https://managerreadme.com/readme/lukestringer90)
+
 Contact me via
 - Email: `luke at stringer dot dev`
 - [Twitter](http://twitter.com/lukestringer90)
