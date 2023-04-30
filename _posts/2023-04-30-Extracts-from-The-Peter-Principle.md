@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-I recently finished reading [The Peter Principle](https://en.wikipedia.org/wiki/Peter_principle). It was written by Laurence J. Peter and Raymond Hull and was published in 1968. Below are number of extracts from the book that I found compelling or noteworthy.
+I recently finished reading [The Peter Principle](https://en.wikipedia.org/wiki/Peter_principle). It was written by Laurence J. Peter and Raymond Hull and was published in 1969. Below are number of extracts from the book that I found compelling or noteworthy.
 
 <!--more-->
 
