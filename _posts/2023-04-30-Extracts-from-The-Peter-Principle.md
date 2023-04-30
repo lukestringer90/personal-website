@@ -5,7 +5,9 @@ excerpt_separator: <!--more-->
 
 ---
 
-I recently finished reading [The Peter Principle](https://en.wikipedia.org/wiki/Peter_principle). It was written by Laurence J. Peter and Raymond Hull and was publiushed in 1968. Below are number of extracts from the book that I found compelling or noteworthy.
+I recently finished reading [The Peter Principle](https://en.wikipedia.org/wiki/Peter_principle). It was written by Laurence J. Peter and Raymond Hull and was published in 1968. Below are number of extracts from the book that I found compelling or noteworthy.
+
+<!--more-->
 
 
 > In time I saw that all such cases had a common feature. The employee had been promoted from a position of competence to a position of incompetence. I saw that, sooner or later, this could happen to every employee in every hierarchy.
