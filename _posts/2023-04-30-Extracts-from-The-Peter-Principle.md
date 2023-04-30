@@ -9,7 +9,7 @@ I recently finished reading [The Peter Principle](https://en.wikipedia.org/wiki/
 
 It's central thesis is that **given enough time, and assuming the existence of enough ranks in a hierarchy, each employee will rise to, and remain at, their level of incompetence**.
 
-Overall I found it an insightful read, with it's cynical, tongue in cheek tone often being quite humorous. It does, however, show it's age with a some problematic heteronormative and sexist views in a handful of places. Remember it was written over 50 years ago.
+Overall I found it an insightful read, with it's cynical, tongue in cheek tone often being quite humorous. It does, however, show it's age with some problematic heteronormative and sexist views in a handful of places. Remember it was written over 50 years ago.
 
 Below are number of extracts from the book that I found compelling or noteworthy.
 
