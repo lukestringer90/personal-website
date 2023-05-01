@@ -34,42 +34,42 @@ The One Minute Manager’s symbol - a one minute readout from the face of a mode
 
 **The One Minute Reprimand works well you:**
 1. Tell people beforehand that you are going to let them know how they are doing in no uncertain terms.
-The first half of the reprimand:
+_The first half of the reprimand:_
 2. Reprimand people immediately.
 3. Tell people what they did wrong - be specific.
 4. Tell people how you feel about what they did wrong - in no uncertain terms.
 5. Stop for a few seconds of uncomfortable silence to let them feel how you feel.
-The second half of the reprimand:
+_The second half of the reprimand:_
 6. Shake hands, or touch them in a way that lets them know you are honestly on their side.
 7. Remind them how much you value them.
 8. Reaffirm that you think well of them but not of their performance in this situation.
 9. Realise that when the reprimand is over, it’s over.
 
 
-People Who Feel Good About Themselves
+People Who Feel Good About Themselves  
 Produce Good Results
 
-Help People Reach Their Full Potential
+Help People Reach Their Full Potential  
 Catch Them Doing Something Right
 
-The Best Minute YouI Spend Is The One YouI Invest In People
+The Best Minute You Spend Is The One You Invest In People  
 
-Everyone Is A Potential Winner
-Some People Are Disguised As Losers,
+Everyone Is A Potential Winner  
+Some People Are Disguised As Losers,  
 Don’t Let Their Appearances Fool You
 
-Take A Minute:
-Look At Your Goals
-Look At Your Performance
+Take A Minute:  
+Look At Your Goals  
+Look At Your Performance  
 See If Your Behaviour Matches Your Goals
 
-We Are Not Just Our Behaviour
+We Are Not Just Our Behaviour  
 We are The Person Managing Our Behaviour
 
-Goals Begin Behaviours
+Goals Begin Behaviours  
 Consequences Maintain Behaviours
 
-**The One Minute Manager's Game Plan**
+**The One Minute Manager's Game Plan:**
 
 <img src="https://user-images.githubusercontent.com/987146/235443204-f8558f49-3a1c-4b33-8f11-78713df0aa5a.jpg" 
      width="700px" 
