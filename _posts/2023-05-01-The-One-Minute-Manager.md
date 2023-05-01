@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The One Minute Managher
+title: The One Minute Manager
 excerpt_separator: <!--more-->
 
 ---
