@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-The [One Minute Manager](https://en.wikipedia.org/wiki/The_One_Minute_Manager) is a book I read after moving into my first management role. It was written by Ken Blanchard and Spencer Johnson, and was published in 1982.
+[The One Minute Manager](https://en.wikipedia.org/wiki/The_One_Minute_Manager) is a book I read after moving into my first management role. It was written by Ken Blanchard and Spencer Johnson, and was published in 1982.
 
 It's a short read that you can complete in one sitting. I found it really useful as a foundation for thinking through "people things". At the time I took note of a number of the useful passages, and I have referred back to these many times since. I am sharing them here for others as they may also prove useful.
 
