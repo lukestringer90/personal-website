@@ -4,7 +4,7 @@ title: Leadership and the One Minute Manager
 excerpt_separator: <!--more-->
 ---
 
-[Leadership and the One Minute Manager](https://www.kenblanchard.com/Store/Leadership-and-the-One-Minute-Manager) is a another book I read after moving into my first management role. It was written by Ken Blanchard, Drea Zigarmi, Patricia Zigarmi, and was first published in 1999.
+[Leadership and the One Minute Manager](https://www.kenblanchard.com/Store/Leadership-and-the-One-Minute-Manager) is another book I read after moving into my first management role. It was written by Ken Blanchard, Drea Zigarmi, Patricia Zigarmi, and was first published in 1999.
 
 This book follows on from [The One Minute Manager](https://stringer.dev/2023/05/01/The-One-Minute-Manager.html), and builds on number of concepts to explore the idea of what a good leader is. Below are some extracts and diagrams I found useful.
 
