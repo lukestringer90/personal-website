@@ -29,9 +29,9 @@ A talk about my career as a software engineer, what my day job looks like buildi
 
 Presented at
 
-- Glossopdale School for their British Science Week (remotely)
-- Wright Robinson College Manchester (remotely)
-- Leeds City Academy
+- Glossopdale School for their British Science Week remotely on 14/03/2022
+- Wright Robinson College Manchester remotely on 19/07/2022
+- Leeds City Academy at AND Digital in Leeds on 14/07/2022
 
 <script async class="speakerdeck-embed" data-id="30ab5003864d4433b543280657d2752a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
