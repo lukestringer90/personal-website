@@ -3,6 +3,10 @@ layout: page
 title: Talks
 ---
 
+<!-- https://speakerdeck.com/oembed.json?url=https://speakerdeck.com/jnunemaker/atom -->
+
+<!-- <script async class="speakerdeck-embed" data-id="IDHERE" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> -->
+
 I enjoy public speaking and try to do it as often as I can. This page collates all the talks I have given. All my slides are available on [Speakerdeck](http://speakerdeck.com/lukestringer90/).
 
 ## Choosing your Mobile Strategy for 2023
