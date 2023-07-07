@@ -17,7 +17,7 @@ Presented at
 
 <p></p>
 
-<iframe width="720" height="540" src="https://www.youtube.com/embed/OFo76eqOPlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="720" height="540" src="https://youtu.be/OFo76eqOPlI?t=1955" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## A Career in Software Engineering - STEM Ambassador Talk
 
