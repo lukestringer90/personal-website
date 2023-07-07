@@ -5,6 +5,18 @@ title: Talks
 
 I enjoy public speaking and try to do it as often as I can. This page collates all the talks I have given. All my slides are available on [Speakerdeck](http://speakerdeck.com/lukestringer90/).
 
+## Choosing your Mobile Strategy for 2023
+
+> In this talk we’ll look at the different ways a business can approach building mobile applications in 2023. We’ll start by outlining what modern mobile apps are capable of, and what problems they can solve for customers. We’ll then look at the available tools and discuss which are the most applicable in different business situations. We’ll finish with a case study of a business deciding to move from one technology platform to another in order to deliver a higher quality mobile experience for its customers. We’ll share what problems were encountered along with some solutions and advice for undertaking mobile application re-platforms in the future.
+
+Presented at
+
+ - AND Digital in association with the British Computer Society on June 8th 2023.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFo76eqOPlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<script async class="speakerdeck-embed" data-id="dff6583f3d584afb979f1d7707fd7b0a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ## Debugging with Git
 
 Lightning talk on how to use Git Bisect to debug your code. Presented at
