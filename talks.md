@@ -13,7 +13,7 @@ Presented at
 
  - AND Digital in association with the British Computer Society on June 8th 2023.
 
-<script async class="speakerdeck-embed" data-id="dff6583f3d584afb979f1d7707fd7b0a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="dff6583f3d584afb979f1d7707fd7b0a" data-ratio="1.33333333333333" width=\"710\" height=\"399\" src="//speakerdeck.com/assets/embed.js"></script>
 
 <p></p>
 
