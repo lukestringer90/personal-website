@@ -19,6 +19,20 @@ Presented at
 
 <iframe width="720" height="540" src="https://www.youtube.com/embed/OFo76eqOPlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## A Career in Software Engineering - STEM Ambassador Talk
+
+A talk about my career as a software engineer, what my day job looks like building iOS apps, and how you can get involved in building software yourself.
+
+Presented at
+
+- Glossopdale School for their British Science Week
+- Wright Robinson College Manchester
+- Leeds City Academy.
+
+<script async class="speakerdeck-embed" data-id="30ab5003864d4433b543280657d2752a" data-ratio="1.33333333333333" width=\"710\" height=\"404\" src="//speakerdeck.com/assets/embed.js"></script>
+
+<iframe width="720" height="540" src="https://www.youtube.com/watch?v=oEp_EXAuH_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Debugging with Git
 
 Lightning talk on how to use Git Bisect to debug your code. Presented at
