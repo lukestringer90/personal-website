@@ -10,10 +10,12 @@ I enjoy public speaking and try to do it as often as I can. This page collates a
 Lightning talk on how to use Git Bisect to debug your code. Presented at
  
  - DDDNorth 2019
- - dotnetsheff June 4th 2019 ([recorded here](https://www.youtube.com/watch?v=Ks10Mv_KxNI))
+ - dotnetsheff June 4th 2019
  - UIKonf 2020
 
 <script async class="speakerdeck-embed" data-id="6f3f94b64c4c4d81b6b1e43104ba4e56" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ks10Mv_KxNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## The Peak Framework
 [The Peak Framework](https://github.com/topics/peak-framework) is a collection of open source, 100% Swift microframeworks providing a standardised approach to building iOS apps. This talk will cover the how and why the mobile team at [3Squared](https://www.3squared.com/) created the Peak Framework, their progress in updating legacy projects to use more and more Swift, and a demo of how the frameworks can be used in building a simple app talking to a web api.
