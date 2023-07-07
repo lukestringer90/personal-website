@@ -45,6 +45,11 @@ html {
   }
 }
 
+[id="youtube-wide\""] {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
 
 /*
  * Sidebar
@@ -272,9 +277,4 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
-}
-
-[id="youtube-wide\""] {
-  width: 100%;
-  aspect-ratio: 16 / 9;
 }
