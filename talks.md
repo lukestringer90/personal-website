@@ -23,7 +23,7 @@ Presented at
 
 <p></p>
 
-<iframe id="youtube-wide" width="720" height="540" src="https://www.youtube.com/embed/OFo76eqOPlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-wide" width="720" height="540" src="https://www.youtube.com/embed/OFo76eqOPlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## A Career in Software Engineering - STEM Ambassador Talk
 
@@ -37,7 +37,7 @@ Presented at
 
 <script async class="speakerdeck-embed" data-id="30ab5003864d4433b543280657d2752a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-<iframe id="youtube-wide" width="720" height="540" src="https://www.youtube.com/embed/oEp_EXAuH_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-wide" width="720" height="540" src="https://www.youtube.com/embed/oEp_EXAuH_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Debugging with Git
 
@@ -51,7 +51,7 @@ Lightning talk on how to use Git Bisect to debug your code. Presented at
 
 <p></p>
 
-<iframe id="youtube-wide" width="720" height="540" src="https://www.youtube.com/embed/Ks10Mv_KxNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-wide" width="720" height="540" src="https://www.youtube.com/embed/Ks10Mv_KxNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## The Peak Framework
 [The Peak Framework](https://github.com/topics/peak-framework) is a collection of open source, 100% Swift microframeworks providing a standardised approach to building iOS apps. This talk will cover the how and why the mobile team at [3Squared](https://www.3squared.com/) created the Peak Framework, their progress in updating legacy projects to use more and more Swift, and a demo of how the frameworks can be used in building a simple app talking to a web api.
