@@ -29,7 +29,7 @@ A talk about my career as a software engineer, what my day job looks like buildi
 
 Presented at
 
-- Glossopdale School for their British Science Week (remotely
+- Glossopdale School for their British Science Week (remotely)
 - Wright Robinson College Manchester (remotely)
 - Leeds City Academy
 
