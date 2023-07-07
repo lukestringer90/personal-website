@@ -17,7 +17,7 @@ Presented at
 
  - AND Digital in association with the British Computer Society on June 8th 2023.
 
-<script async class="speakerdeck-embed" data-id="dff6583f3d584afb979f1d7707fd7b0a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="dff6583f3d584afb979f1d7707fd7b0a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 <p></p>
 
@@ -33,7 +33,7 @@ Presented at
 - Wright Robinson College Manchester
 - Leeds City Academy.
 
-<script async class="speakerdeck-embed" data-id="30ab5003864d4433b543280657d2752a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="30ab5003864d4433b543280657d2752a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 <iframe width="720" height="540" src="https://www.youtube.com/embed/oEp_EXAuH_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
