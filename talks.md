@@ -29,7 +29,7 @@ Presented at
 - Wright Robinson College Manchester
 - Leeds City Academy.
 
-<script async class="speakerdeck-embed" data-id="30ab5003864d4433b543280657d2752a" data-ratio="1.33333333333333" width="720" height="404" src="//speakerdeck.com/assets/embed.js"></script>
+<iframe id="talk_frame_1036010" class="speakerdeck-iframe" src="//speakerdeck.com/player/dff6583f3d584afb979f1d7707fd7b0a" width="720" height="404" style="aspect-ratio:710/399; border:0; padding:0; margin:0; background:transparent;" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen"></iframe>n",
 
 <iframe width="720" height="540" src="https://www.youtube.com/embed/oEp_EXAuH_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
