@@ -15,6 +15,8 @@ Presented at
 
 <script async class="speakerdeck-embed" data-id="dff6583f3d584afb979f1d7707fd7b0a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+<p></p>
+
 <iframe width="720" height="540" src="https://www.youtube.com/embed/OFo76eqOPlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Debugging with Git
@@ -26,6 +28,8 @@ Lightning talk on how to use Git Bisect to debug your code. Presented at
  - UIKonf 2020
 
 <script async class="speakerdeck-embed" data-id="6f3f94b64c4c4d81b6b1e43104ba4e56" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<p></p>
 
 <iframe width="720" height="540" src="https://www.youtube.com/embed/Ks10Mv_KxNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
