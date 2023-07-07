@@ -21,9 +21,7 @@ Presented at
 
 <script async class="speakerdeck-embed" data-id="dff6583f3d584afb979f1d7707fd7b0a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-<p></p>
-
-<iframe class="youtube-wide" width="720" height="540" src="https://www.youtube.com/embed/OFo76eqOPlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-wide" width="720" height="540" src="https://www.youtube.com/embed/OFo76eqOPlI?start=2015" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## A Career in Software Engineering - STEM Ambassador Talk
 
@@ -31,9 +29,9 @@ A talk about my career as a software engineer, what my day job looks like buildi
 
 Presented at
 
-- Glossopdale School for their British Science Week
-- Wright Robinson College Manchester
-- Leeds City Academy.
+- Glossopdale School for their British Science Week (remotely
+- Wright Robinson College Manchester (remotely)
+- Leeds City Academy
 
 <script async class="speakerdeck-embed" data-id="30ab5003864d4433b543280657d2752a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
