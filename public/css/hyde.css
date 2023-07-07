@@ -45,7 +45,7 @@ html {
   }
 }
 
-[id="youtube-wide\""] {
+.youtube-wide {
   width: 100%;
   aspect-ratio: 16 / 9;
 }
