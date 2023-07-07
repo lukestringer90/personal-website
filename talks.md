@@ -31,7 +31,7 @@ Presented at
 
 <script async class="speakerdeck-embed" data-id="30ab5003864d4433b543280657d2752a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-<iframe width="720" height="540" src="https://www.youtube.com/watch?v=oEp_EXAuH_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="720" height="540" src="https://www.youtube.com/embed/oEp_EXAuH_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Debugging with Git
 
