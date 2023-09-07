@@ -11,6 +11,16 @@ title: Talks
 
 I enjoy public speaking and try to do it as often as I can. This page collates all the talks I have given. All my slides are available on [Speakerdeck](http://speakerdeck.com/lukestringer90/).
 
+## Do Repeat Yourself: How to move from Development into Leadership
+
+As a developer moving into a leadership role for the first time it can be can be tough, confusing, and at times overwhelming. This was certainly the case for me. I discovered that the principles I had once followed when building software were no longer effective as a leader. However, after a few years I can confidently say that becoming a leader is one of the most fulfilling things I've done. In this talk you will learn some of the ways to adapt your developer skillset to that of a tech lead, and I will share my observations in making these adjustments myself. We'll look at how the problems you need to solve are suddenly very unfamiliar, with incentives that are often the reverse to what you've been used to. If you've had similar experiences or are considering a move into leadership yourself, this talk is for you. You will leave with an number of effective strategies for becoming a tech lead, while remaining kind to yourself and others.
+
+Presented at
+
+- iOS DevUK, September 5th 2023.
+
+<script async class="speakerdeck-embed" data-id="106f33c34deb4166af2aecb751bd636d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 ## Choosing your Mobile Strategy for 2023
 
 > In this talk we’ll look at the different ways a business can approach building mobile applications in 2023. We’ll start by outlining what modern mobile apps are capable of, and what problems they can solve for customers. We’ll then look at the available tools and discuss which are the most applicable in different business situations. We’ll finish with a case study of a business deciding to move from one technology platform to another in order to deliver a higher quality mobile experience for its customers. We’ll share what problems were encountered along with some solutions and advice for undertaking mobile application re-platforms in the future.
