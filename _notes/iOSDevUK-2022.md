@@ -79,7 +79,7 @@ where: Aberystwyth 󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿
 - Not a promotion, it is a role change
 
 ## Next Step: Management?
-**Leah Voge**
+**Leah Vogel**
 
 - Management != Leadership
 - “Guides a team to execution”
