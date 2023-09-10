@@ -19,6 +19,33 @@ Presented at
 
 - [iOSDevUK](https://www.iosdevuk.com), September 5th 2023.
 
+<strong>References from this talk</strong>
+
+📕 Books
+<a href="https://www.amazon.co.uk/One-Minute-Manager-Productivity-Prosperity/dp/0007107927">The One Minute Manager</a>
+<a href="https://www.amazon.co.uk/Leadership-One-Minute-Manager/dp/0007103417/ref=sr_1_1?crid=XOZX07TZ3HHR&keywords=The+One+Minute+Manager+and+Leadership%5D&qid=1693465630&s=books&sprefix=the+one+minute+manager+and+leadership,stripbooks,94&sr=1-1">Leadership and the One Minute Manager</a>
+<a href="https://www.amazon.co.uk/First-Days-Updated-Expanded-Strategies/dp/1422188612/ref=sr_1_1?crid=22Q8M8R949DZ1&keywords=The+First+90+Days&qid=1693465659&s=books&sprefix=the+one+minute+manager+and+leadership+,stripbooks,118&sr=1-1">The First 90 Days</a>
+<a href="https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/0988262592">The Phoenix Project</a>
+<a href="https://leadingsnowflakes.com">Leading Snowflakes</a>
+
+📰 Online Resources
+<a href="https://marcgg.com/blog/2017/10/09/paper-note-taking-meetings/">Note Taking During One on Ones</a>
+<a href="https://managerreadme.com/readme/lukestringer90">My Manager README</a>
+
+👥 Community
+<a href="https://leaddev.com">LeadDev</a>
+<a href="https://softwareleadweekly.com">Software Lead Weekly</a>
+
+🗣️ Talks
+<a href="https://speakerdeck.com/mwasniewski/becoming-an-ios-developer-again?slide=3">Becoming an iOS Dev, again by Michał Waśniewski</a>
+<a href="https://speakerdeck.com/leahvogel/next-step-management">Next Step: Management? by Leah Vogel</a>
+
+🔨 Tools
+<a href="https://culturedcode.com/things/">Things</a>
+<a href="https://bear.app">Bear</a>
+<a href="https://xmind.works">Xmind</a>
+<a href="https://flexibits.com/fantastical">Fantastical</a>
+
 <script async class="speakerdeck-embed" data-id="106f33c34deb4166af2aecb751bd636d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Choosing your Mobile Strategy for 2023
