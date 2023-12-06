@@ -52,9 +52,13 @@ Presented at
 
 > In this talk we’ll look at the different ways a business can approach building mobile applications in 2023. We’ll start by outlining what modern mobile apps are capable of, and what problems they can solve for customers. We’ll then look at the available tools and discuss which are the most applicable in different business situations. We’ll finish with a case study of a business deciding to move from one technology platform to another in order to deliver a higher quality mobile experience for its customers. We’ll share what problems were encountered along with some solutions and advice for undertaking mobile application re-platforms in the future.
 
+This talk pairs with a [blog post](https://www.and.digital/spotlight/creating-a-successful-mobile-app-strategy-in-2024?utm_campaign=Yorkshire%20awareness&utm_content=274036012&utm_medium=social&utm_source=linkedin&hss_channel=lcp-5087858) on AND Digital's website.
+
+
 Presented at
 
- - AND Digital in association with the British Computer Society on June 8th 2023.
+ - AND Digital in association with the British Computer Society on June 8th 2023
+ - University of Sheffield on December 7th 2023
 
 <script async class="speakerdeck-embed" data-id="dff6583f3d584afb979f1d7707fd7b0a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
