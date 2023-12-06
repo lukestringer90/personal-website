@@ -21,7 +21,7 @@ Presented at
 
 <script async class="speakerdeck-embed" data-id="106f33c34deb4166af2aecb751bd636d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-<iframe class="youtube-wide" width="720" height="540" src="https://www.youtube.com/watch?v=UgwfgJTwSFw&t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="720" height="540" src="https://www.youtube.com/embed/UgwfgJTwSFw?si=3c22TNQXCm76FSeC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <strong>References from this talk</strong>
 
