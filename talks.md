@@ -11,6 +11,18 @@ title: Talks
 
 I enjoy public speaking and try to do it as often as I can. This page collates all the talks I have given. All my slides are available on [Speakerdeck](http://speakerdeck.com/lukestringer90/).
 
+## Great Scott! How the Changed the Future
+
+> Hop into the DeLorean and join Luke Stringer for a fourth-dimensional journey through the history of the smartphone, inspired by the iconic film Back to the Future. Come with us to remember the beginnings of the smartphone revolution, revisit iconic software and hardware launches, and get a glimpse into what the future holds.
+
+Presented at
+
+- [Leeds Mobile](www.leedsmobile.com), September 21st 2024.
+
+<script async class="speakerdeck-embed" data-id="f0e62e1c1fb046ccb38f12368e7d6dd3" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<iframe width="720" height="540" src="https://www.youtube.com/watch?v=lPWzFpLKUfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Do Repeat Yourself: How to move from Development into Leadership
 
 > As a developer moving into a leadership role for the first time it can be can be tough, confusing, and at times overwhelming. This was certainly the case for me. I discovered that the principles I had once followed when building software were no longer effective as a leader. However, after a few years I can confidently say that becoming a leader is one of the most fulfilling things I've done. In this talk you will learn some of the ways to adapt your developer skillset to that of a tech lead, and I will share my observations in making these adjustments myself. We'll look at how the problems you need to solve are suddenly very unfamiliar, with incentives that are often the reverse to what you've been used to. If you've had similar experiences or are considering a move into leadership yourself, this talk is for you. You will leave with an number of effective strategies for becoming a tech lead, while remaining kind to yourself and others.
@@ -65,7 +77,7 @@ Presented at
 
 <script async class="speakerdeck-embed" data-id="dff6583f3d584afb979f1d7707fd7b0a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-<iframe class="youtube-wide" width="720" height="540" src="https://www.youtube.com/embed/OFo76eqOPlI?start=2015" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-wide" width="720" height="540" src="https://www.youtube.com/watch?v=X1QcquJH_EU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## A Career in Software Engineering - STEM Ambassador Talk
 
