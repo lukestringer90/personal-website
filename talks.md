@@ -18,6 +18,7 @@ I enjoy public speaking and try to do it as often as I can. This page collates a
 Presented at
 
 - [iOSDevUK](https://www.iosdevuk.com), September 5th 2023.
+- [DevTalks Romania](https://www.devtalks.ro), May 29th 2024.
 
 <script async class="speakerdeck-embed" data-id="106f33c34deb4166af2aecb751bd636d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
