@@ -31,8 +31,6 @@ With over 10 years of native iOS development experience, I am an experienced eng
 - GitLab, GitHub, GitHub Pages, Heroku, Jekyll, Jira, Confluence, Miro, Lucid  
 - GitLab CI, GitHub Actions, App Center, Bugfender, RevenueCat, Grafana, Dynatrace  
 
----
-
 ## Career Summary
 
 ### Tech Lead, Jaguar Landrover (via AND Digital) --- August 2024 - Present
