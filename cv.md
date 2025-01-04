@@ -126,7 +126,3 @@ Over 6 million users across [iOS](https://apps.apple.com/gb/app/my-sky/id8805751
 ## Education
 
 University of Sheffield 2008-2012 - First Class Masters Degree (with honours) in Software Engineering
-
-## Other interests
-
-I enjoy solving Rubik's cubes, attending conferences, and spending time with my partner and 6-year-old son. I am a STEM ambassador and have spoken to KS2, 3, and 4 students. I volunteer at my son's school's Parent-Teacher Association. In addition to running events, I act as the Committee Secretary, communicating our activities with parents and staff through social media and monthly newsletters.
