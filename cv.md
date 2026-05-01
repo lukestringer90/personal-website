@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-[PDF Download of my CV](/assets/lukestringer-CV.pdf)
+[PDF Download of my CV](/assets/lukestringer-CV-new.pdf)
 
 [My Manager README](https://managerreadme.com/readme/lukestringer90)
 
