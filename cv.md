@@ -9,9 +9,8 @@ title: Curriculum Vitae
 
 Contact me via
 - Email: `luke at stringer dot dev`
-- [Twitter](http://twitter.com/lukestringer90)
-- [GitHub](http://github.com/lukestringer90)
 - [Linkedin](https://www.linkedin.com/in/lukestringer90)
+- [GitHub](http://github.com/lukestringer90)
 
 ## Profile
 
